@@ -1,0 +1,636 @@
+fileFormatVersion: 2
+guid: af79b37d19b84654ea36bb063a87cd58
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1273007143534693136
+    second: KnightAttac_0
+  - first:
+      213: 808724539143741923
+    second: KnightAttac_1
+  - first:
+      213: 6579234824380268239
+    second: KnightAttac_2
+  - first:
+      213: -6042607562101728276
+    second: KnightAttac_3
+  - first:
+      213: 1152728593259142533
+    second: KnightAttac_4
+  - first:
+      213: 7780409720926004333
+    second: KnightAttac_5
+  - first:
+      213: -2500634320326188310
+    second: KnightAttac_6
+  - first:
+      213: -6789867260238995633
+    second: KnightAttac_7
+  - first:
+      213: 2249405158276673187
+    second: KnightAttac_8
+  - first:
+      213: 5283016161213623196
+    second: KnightAttac_9
+  - first:
+      213: 2957501525707890407
+    second: KnightAttac_10
+  - first:
+      213: -5539151749786048638
+    second: KnightAttac_11
+  - first:
+      213: -4226830047572344862
+    second: KnightAttac_12
+  - first:
+      213: -9191896934101626088
+    second: KnightAttac_13
+  - first:
+      213: 6947901462087699520
+    second: KnightAttac_14
+  - first:
+      213: -6173667755236237774
+    second: KnightAttac_15
+  - first:
+      213: -5640285335026538227
+    second: KnightAttac_16
+  - first:
+      213: -3521614170542822463
+    second: KnightAttac_17
+  - first:
+      213: -3132387236435488680
+    second: KnightAttac_18
+  - first:
+      213: 1348396936370651059
+    second: KnightAttac_19
+  - first:
+      213: -7189897241090193417
+    second: KnightAttac_20
+  - first:
+      213: -3762475382532431865
+    second: KnightAttac_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KnightAttac_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 20
+        width: 51
+        height: 30
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f474156fbe555ee0800000000000000
+      internalID: -1273007143534693136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightAttac_1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 20
+        width: 51
+        height: 30
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1edccfeaa293b00800000000000000
+      internalID: 808724539143741923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightAttac_2
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 20
+        width: 51
+        height: 30
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fceb019e6332e4b50800000000000000
+      internalID: 6579234824380268239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightAttac_3
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 20
+        width: 51
+        height: 29
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb56d7ff68542ca0800000000000000
+      internalID: -6042607562101728276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightAttac_4
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 20
+        width: 51
+        height: 29
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d95a35c805fff00800000000000000
+      internalID: 1152728593259142533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightAttac_5
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 20
+        width: 51
+        height: 28
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d646ac63b6199fb60800000000000000
+      internalID: 7780409720926004333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightAttac_6
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 20
+        width: 51
+        height: 28
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2aec7a556fb4dd0800000000000000
+      internalID: -2500634320326188310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightAttac_7
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 20
+        width: 51
+        height: 28
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f566973bb85c1a0800000000000000
+      internalID: -6789867260238995633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightAttac_8
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 20
+        width: 51
+        height: 29
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae2307d21e773f10800000000000000
+      internalID: 2249405158276673187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightAttac_9
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 20
+        width: 51
+        height: 30
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b29cf353b015940800000000000000
+      internalID: 5283016161213623196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightAttac_10
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 20
+        width: 51
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee9e76d7f72b0920800000000000000
+      internalID: 2957501525707890407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightAttac_11
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 20
+        width: 51
+        height: 29
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287e40dc4daf023b0800000000000000
+      internalID: -5539151749786048638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightAttac_12
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 20
+        width: 51
+        height: 27
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efb08867784755c0800000000000000
+      internalID: -4226830047572344862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightAttac_13
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 20
+        width: 51
+        height: 28
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813dede6072df6080800000000000000
+      internalID: -9191896934101626088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightAttac_14
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 20
+        width: 51
+        height: 28
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c87267197eb6060800000000000000
+      internalID: 6947901462087699520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightAttac_15
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 20
+        width: 51
+        height: 28
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e5cd7d2e9b25aa0800000000000000
+      internalID: -6173667755236237774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightAttac_16
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 20
+        width: 51
+        height: 28
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09e5ed0f5ea9b1b0800000000000000
+      internalID: -5640285335026538227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightAttac_17
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 20
+        width: 51
+        height: 26
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb20d8f196b02fc0800000000000000
+      internalID: -3521614170542822463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightAttac_18
+      rect:
+        serializedVersion: 2
+        x: 2675
+        y: 20
+        width: 51
+        height: 27
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8509b4197668784d0800000000000000
+      internalID: -3132387236435488680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightAttac_19
+      rect:
+        serializedVersion: 2
+        x: 2819
+        y: 20
+        width: 51
+        height: 27
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bff8989ed776b210800000000000000
+      internalID: 1348396936370651059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightAttac_20
+      rect:
+        serializedVersion: 2
+        x: 2963
+        y: 20
+        width: 51
+        height: 27
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7024d8d8a583c90800000000000000
+      internalID: -7189897241090193417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightAttac_21
+      rect:
+        serializedVersion: 2
+        x: 3107
+        y: 20
+        width: 51
+        height: 27
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700a004f29009cbc0800000000000000
+      internalID: -3762475382532431865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
